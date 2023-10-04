@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Desktop\27\Methodtask1\Methodtask1\bin\Debug\net6.0\Methodtask1.exe
+C:\Users\ASUS\OneDrive\Desktop\27\Methodtask1\Methodtask1\bin\Debug\net6.0\Methodtask1.deps.json
+C:\Users\ASUS\OneDrive\Desktop\27\Methodtask1\Methodtask1\bin\Debug\net6.0\Methodtask1.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\27\Methodtask1\Methodtask1\bin\Debug\net6.0\Methodtask1.dll
+C:\Users\ASUS\OneDrive\Desktop\27\Methodtask1\Methodtask1\bin\Debug\net6.0\Methodtask1.pdb
+C:\Users\ASUS\OneDrive\Desktop\27\Methodtask1\Methodtask1\obj\Debug\net6.0\Methodtask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\27\Methodtask1\Methodtask1\obj\Debug\net6.0\Methodtask1.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\27\Methodtask1\Methodtask1\obj\Debug\net6.0\Methodtask1.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\27\Methodtask1\Methodtask1\obj\Debug\net6.0\Methodtask1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\27\Methodtask1\Methodtask1\obj\Debug\net6.0\Methodtask1.dll
+C:\Users\ASUS\OneDrive\Desktop\27\Methodtask1\Methodtask1\obj\Debug\net6.0\refint\Methodtask1.dll
+C:\Users\ASUS\OneDrive\Desktop\27\Methodtask1\Methodtask1\obj\Debug\net6.0\Methodtask1.pdb
+C:\Users\ASUS\OneDrive\Desktop\27\Methodtask1\Methodtask1\obj\Debug\net6.0\Methodtask1.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\27\Methodtask1\Methodtask1\obj\Debug\net6.0\ref\Methodtask1.dll
